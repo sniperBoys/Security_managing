@@ -1,4 +1,2 @@
 streamlit
-folium
-streamlit-folium
 fpdf2
